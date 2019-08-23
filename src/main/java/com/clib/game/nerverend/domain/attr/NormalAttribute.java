@@ -1,4 +1,4 @@
-package com.clib.game.nerverend.attr;
+package com.clib.game.nerverend.domain.attr;
 
 public class NormalAttribute {
 
