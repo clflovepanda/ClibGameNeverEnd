@@ -1,4 +1,4 @@
-package com.clib.game.nerverend.domain;
+package com.clib.game.nerverend.core;
 
 public class Buff {
 

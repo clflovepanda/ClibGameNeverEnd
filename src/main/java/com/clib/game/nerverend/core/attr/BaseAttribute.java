@@ -1,4 +1,4 @@
-package com.clib.game.nerverend.domain.attr;
+package com.clib.game.nerverend.core.attr;
 
 import com.clib.game.nerverend.enums.AttrDesc;
 
